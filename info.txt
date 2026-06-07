@@ -1,4 +1,4 @@
-         JOLLIBEE POINT OF SALE SYSTEM  v2.0
+         FasterFood POINT OF SALE SYSTEM  v2.0
          Enhanced Security Edition
 ══════════════════════════════════════════════════════════════════
    Default Credentials
